@@ -2,5 +2,42 @@
     "name": "Bunny 0",
     "description": "AI generated collection of 4 bunnies",
     "image": "https://raw.githubusercontent.com/durdomtut0/NFT-metadata/main/images/0.png",
-    "level": 5
+    "attributes": [
+        {
+            "trait_type": "Mouth", 
+            "value": "Surprised"
+          }, 
+          {
+            "display_type": "boost_percentage", 
+            "trait_type": "Stamina Increase", 
+            "value": 10
+          }, 
+        {
+
+            "trait_type": "Strength",
+            "value": 7,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Jump",
+            "value": 8,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Intelligence",
+            "value": 5,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Dexterity",
+            "value": 6,
+            "max_value": 10
+        }
+
+    ]
 }
